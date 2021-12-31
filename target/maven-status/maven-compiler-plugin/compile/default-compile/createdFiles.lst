@@ -1,0 +1,17 @@
+edu\gdut\bean\DepartmentExample$Criterion.class
+edu\gdut\bean\EmployeeExample$Criteria.class
+edu\gdut\test\MapperTest.class
+edu\gdut\bean\EmployeeExample.class
+edu\gdut\bean\EmployeeExample$GeneratedCriteria.class
+edu\gdut\bean\Employee.class
+edu\gdut\bean\DepartmentExample$GeneratedCriteria.class
+edu\gdut\bean\DepartmentExample$Criteria.class
+edu\gdut\bean\DepartmentExample.class
+edu\gdut\dao\DepartmentMapper.class
+edu\gdut\bean\EmployeeExample$Criterion.class
+edu\gdut\service\EmployeeService.class
+edu\gdut\bean\Department.class
+edu\gdut\controller\EmployeeController.class
+edu\gdut\dao\EmployeeMapper.class
+edu\gdut\test\MVCTest.class
+edu\gdut\test\MBGTTest.class
