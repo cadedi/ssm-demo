@@ -6,9 +6,33 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb147e4f-c149-4747-b629-77c90bc8e10d" name="Default Changelist" comment="add readme">
+    <list default="true" id="eb147e4f-c149-4747-b629-77c90bc8e10d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index-old.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/bean/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/bean/Department.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/bean/DepartmentExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/bean/DepartmentExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/bean/DepartmentExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/bean/DepartmentExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/bean/DepartmentExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/bean/DepartmentExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/bean/DepartmentExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/bean/DepartmentExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/bean/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/bean/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/bean/EmployeeExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/bean/EmployeeExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/bean/EmployeeExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/bean/EmployeeExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/bean/EmployeeExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/bean/EmployeeExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/bean/EmployeeExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/bean/EmployeeExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/bean/Msg.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/bean/Msg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/controller/EmployeeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/controller/EmployeeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/dao/DepartmentMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/dao/DepartmentMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/dao/EmployeeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/dao/EmployeeMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/service/EmployeeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/service/EmployeeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/test/MBGTTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/test/MBGTTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/test/MVCTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/test/MVCTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/test/MapperTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/classes/edu/gdut/test/MapperTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/views/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-demo/WEB-INF/views/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-demo/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-demo/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,34 +57,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1704">
-              <caret line="71" selection-start-line="71" selection-end-line="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/gdut/controller/EmployeeController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="453">
+              <caret line="105" column="46" lean-forward="true" selection-start-line="105" selection-start-column="46" selection-end-line="105" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" column="63" lean-forward="true" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -68,17 +77,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/list.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1560">
-              <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
+            <state relative-caret-position="408">
+              <caret line="62" column="70" lean-forward="true" selection-start-line="62" selection-start-column="45" selection-end-line="62" selection-end-column="70" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/gdut/controller/DepartmentController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+            <state relative-caret-position="48">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -119,21 +128,27 @@
         <option value="$PROJECT_DIR$/src/main/java/edu/gdut/bean/Employee.java" />
         <option value="$PROJECT_DIR$/src/main/resources/mapper/EmployeeMapper.xml" />
         <option value="$PROJECT_DIR$/src/main/java/edu/gdut/service/EmployeeService.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
         <option value="$PROJECT_DIR$/src/main/java/edu/gdut/test/MapperTest.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/list.jsp" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/edu/gdut/bean/Msg.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/resources/dbconfig.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/main/java/edu/gdut/test/MVCTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/gdut/controller/EmployeeController.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
       </list>
     </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -176,10 +191,10 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="595" />
-    <option name="y" value="-10" />
+    <option name="x" value="331" />
+    <option name="y" value="-32" />
     <option name="width" value="1340" />
-    <option name="height" value="1050" />
+    <option name="height" value="995" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -189,6 +204,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -287,6 +304,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -302,21 +336,25 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1640963675464" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1641141274513" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pcom\Desktop\Java\ssm-demo\src\main\webapp" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -532,7 +570,10 @@
       <workItem from="1640917507955" duration="4136000" />
       <workItem from="1640956701955" duration="2551000" />
       <workItem from="1640959954631" duration="773000" />
-      <workItem from="1640961820039" duration="1501000" />
+      <workItem from="1640961820039" duration="3984000" />
+      <workItem from="1641040148972" duration="4066000" />
+      <workItem from="1641123047513" duration="595000" />
+      <workItem from="1641135786796" duration="2084000" />
     </task>
     <task id="LOCAL-00001" summary="add readme">
       <created>1640963586731</created>
@@ -541,7 +582,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640963586731</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add readme">
+      <created>1640963741628</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640963741628</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -577,13 +625,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57297000" />
+    <option name="totallyTimeSpent" value="66525000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4977778" visible="true" weight="0.23659517" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4977778" visible="true" weight="0.24597855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -593,7 +641,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32531825" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3243626" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -868,17 +916,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="49" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/gdut/test/MVCTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/gdut/controller/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -892,58 +961,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/gdut/controller/DepartmentController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1704">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/list.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1560">
-          <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
+        <state relative-caret-position="408">
+          <caret line="62" column="70" lean-forward="true" selection-start-line="62" selection-start-column="45" selection-end-line="62" selection-end-column="70" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="105" column="46" lean-forward="true" selection-start-line="105" selection-start-column="46" selection-end-line="105" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
-          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/gdut/controller/DepartmentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/gdut/controller/EmployeeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
+          <caret line="16" column="63" lean-forward="true" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
         </state>
       </provider>
     </entry>
