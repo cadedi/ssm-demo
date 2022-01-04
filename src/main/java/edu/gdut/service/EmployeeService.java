@@ -35,4 +35,29 @@ public class EmployeeService {
         return count == 0;
 
     }
+
+    //按照员工id查询员工
+    public Employee getEmp(Integer id) {
+        Employee employee = employeeMapper.selectByPrimaryKey(id);
+        return employee;
+    }
+
+    //员工更新
+    public void updateEmp(Employee employee) {
+        employeeMapper.updateByPrimaryKeySelective(employee);
+    }
+
+    //员工删除
+    public void deleteEmp(Integer id) {
+        employeeMapper.deleteByPrimaryKey(id);
+    }
+
+    //批量删除
+    public void deleteBatch(List<Integer> ids) {
+        EmployeeExample example = new EmployeeExample();
+        EmployeeExample.Criteria criteria = example.createCriteria();
+        //delete from where emp_id in (1,2,3)
+        criteria.andEmpIdIn(ids);
+        employeeMapper.deleteByExample(example);
+    }
 }

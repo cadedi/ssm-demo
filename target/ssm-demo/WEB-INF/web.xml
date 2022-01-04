@@ -67,4 +67,18 @@
         <filter-name>HiddenHttpMethodFilter</filter-name>
         <url-pattern>/*</url-pattern>
     </filter-mapping>
+    <!--
+        若前端直接发送PUT请求而不是使用**POST请求带_method参数(HiddenHttpMethodFilter处理)**,
+        请求体参数不会被Tomcat封装成map,则SpringMVC无法通过参数map封装出bean对象,
+        需使用SpringMVC提供的以下过滤器,该过滤器包装HttpServletRequest,使请求体的参数都能封装成map
+        mark奇怪的是不配置该过滤器在当前测试环境也能正常捕获PUT请求参数
+    -->
+    <filter>
+        <filter-name>HttpPutFormContentFilter</filter-name>
+        <filter-class>org.springframework.web.filter.HttpPutFormContentFilter</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>HttpPutFormContentFilter</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
 </web-app>
