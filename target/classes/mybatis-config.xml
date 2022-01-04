@@ -13,6 +13,9 @@
     </typeAliases>
     <plugins>
         <!--分页插件-->
-        <plugin interceptor="com.github.pagehelper.PageInterceptor"></plugin>
+        <plugin interceptor="com.github.pagehelper.PageInterceptor">
+            <!--分页参数合理化(pageNum<=0 时查询第一页， pageNum>pages（超过总数时）查询最后一页)-->
+            <property name="reasonable" value="true"/>
+        </plugin>
     </plugins>
 </configuration>
